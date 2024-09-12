@@ -211,7 +211,7 @@ const subcard = [
 
       <div className={style.homeleft}>
         <Divider className={style.ind}>Agriculture</Divider>
-        <div className={style.style}>Prodects</div>
+        <div className={style.style}>Products</div>
         <Divider className={style.style2}>SALE</Divider>
         <div className={style.upto}>
           <div className={style.up}>UPTO</div>
